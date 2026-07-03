@@ -16,3 +16,4 @@ if __name__ == "__main__":
     print(f"issues: {data['open_issues_count']}")
     print(f"language: {data.get('language')}")
     print(f"created: {data['created_at'][:10]}")
+# updated
